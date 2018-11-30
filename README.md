@@ -10,9 +10,9 @@ Working programs are:
 - Candidate Elimination -> [Code](https://github.com/YaegerKnight/ML/blob/master/Program%202%20.ipynb) [Dataset](https://github.com/YaegerKnight/ML/blob/master/CandidateElimination1.csv)
 
 - Backpropogation Algorithm -> [Code](https://github.com/YaegerKnight/ML/blob/master/Program%204%20Artificial%20Neural%20Network.ipynb)
-- Naive Bayesian Classifier [Code](#) [Dataset](#) 
+- Naive Bayesian Classifier -> [Code](#) [Dataset](#) 
 
-- [Bayesian Network (using Heart Disease data set)](https://github.com/pavanpej/ML-Lab/blob/master/Prog7-Bayesian.ipynb)
+- Bayesian Network (using Heart Disease Dataset) -> [Code](https://github.com/YaegerKnight/ML/blob/master/Program%207%20-%20Using%20pgmpy%20Module%20.ipynb) [Dataset](https://github.com/YaegerKnight/ML/blob/master/Program7DataSet.csv) 
 - [K-Means Clustering (EM Algorithm)](https://github.com/pavanpej/ML-Lab/blob/master/Prog8-kmeans.ipynb)
 - [K-Nearest Neighbors (Iris data set)](https://github.com/pavanpej/ML-Lab/blob/master/lab9.py) 
 - [Locally Weighted Regression](https://github.com/pavanpej/ML-Lab/blob/master/Prog10.ipynb)
