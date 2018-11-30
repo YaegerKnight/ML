@@ -6,7 +6,7 @@ For the 2015 CBCS Scheme, VTU
 ---
 Working programs are:
 
--FIND S [Code](https://github.com/YaegerKnight/ML/blob/master/Program%201%20-%20Find-S.ipynb) [Dataset](https://github.com/YaegerKnight/ML/blob/master/FindS.csv)
+- FIND S -> [Code](https://github.com/YaegerKnight/ML/blob/master/Program%201%20-%20Find-S.ipynb) [Dataset](https://github.com/YaegerKnight/ML/blob/master/FindS.csv)
 - [Candidate Elimination](https://github.com/pavanpej/ML-Lab/blob/master/pgm2.ipynb)
 - [ID3](https://github.com/pavanpej/ML-Lab/blob/master/labpgm3.ipynb)
 - [Backprop](https://github.com/pavanpej/ML-Lab/blob/master/annBackprop.ipynb)
