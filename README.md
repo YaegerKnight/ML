@@ -13,9 +13,11 @@ Working programs are:
 - Naive Bayesian Classifier -> [Code](#) [Dataset](#) 
 
 - Bayesian Network (using Heart Disease Dataset) -> [Code](https://github.com/YaegerKnight/ML/blob/master/Program%207%20-%20Using%20pgmpy%20Module%20.ipynb) [Dataset](https://github.com/YaegerKnight/ML/blob/master/Program7DataSet.csv) 
-- [K-Means Clustering (EM Algorithm)](https://github.com/pavanpej/ML-Lab/blob/master/Prog8-kmeans.ipynb)
-- [K-Nearest Neighbors (Iris data set)](https://github.com/pavanpej/ML-Lab/blob/master/lab9.py) 
-- [Locally Weighted Regression](https://github.com/pavanpej/ML-Lab/blob/master/Prog10.ipynb)
+- 
+- 
+- -> [Code]() [Dataset]()
+- -> [Code]() [Dataset]()
+- -> [Code]() [Dataset]()
 
 
 In case the notebooks aren't rendering on GitHub, use [nbviewer](https://nbviewer.jupyter.org/).
