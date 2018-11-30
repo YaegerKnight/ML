@@ -13,9 +13,7 @@ Working programs are:
 - Naive Bayesian Classifier -> [Code](#) [Dataset](#) 
 
 - Bayesian Network (using Heart Disease Dataset) -> [Code](https://github.com/YaegerKnight/ML/blob/master/Program%207%20-%20Using%20pgmpy%20Module%20.ipynb) [Dataset](https://github.com/YaegerKnight/ML/blob/master/Program7DataSet.csv) 
-- 
-- 
-- -> [Code]() [Dataset]()
+- EM Algorithm and KMeans -> [Code](https://github.com/YaegerKnight/ML/blob/master/Program%208%20EM%20and%20K-Means.ipynb) [Dataset](https://github.com/YaegerKnight/ML/blob/master/Program8DataSet.csv)
 - -> [Code]() [Dataset]()
 - -> [Code]() [Dataset]()
 
