@@ -1,6 +1,6 @@
 # ML
 
-# Machine Learning Lab Notebooks
+# Machine Learning Lab Programs 
 For the 2015 CBCS Scheme, VTU
 
 ---
