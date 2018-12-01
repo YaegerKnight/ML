@@ -24,3 +24,12 @@ In case the notebooks aren't rendering on GitHub, use [nbviewer](https://nbviewe
 Data sets are included for programs that require them.
 
 Some use the [Scikit-learn](http://scikit-learn.org/stable/) library.
+  
+---
+# Contributors 
+
+- [Naveen K B](https://github.com/YaegerKnight)
+
+- [Bhaskar S](https://github.com/bhaskars2197)
+
+- [Nandan Satheesh](https://github.com/NandanSatheesh)
